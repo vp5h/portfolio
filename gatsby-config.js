@@ -4,9 +4,16 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-     "Shifting Paradigms in web Experiences",
-    siteTitleAlt: `Pravesh Vyas`,
-  },
+    siteTitle: `Pravesh Vyas`,
+    siteTitleAlt: `Paradigm shift in Web Experinces `,
+    siteHeadline: `Web DEv`,
+    siteUrl: `https://www.praveshvyas.ml`,
+    siteDescription: `Paradigm shift in Web Experinces`,
+    siteLanguage: `en`,
+    siteImage: `/cropped-YBM-v5-small.png`,
+    author: `Pravesh Vyas`,
+    basePath,
+  },,
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
