@@ -35,7 +35,7 @@ module.exports = {
         description: `Shifting Paradigms in web Experiences`,
         start_url: `/`,
         background_color: `#141821`,
-        theme_color: `#f6ad55`,
+        theme_color: `#000000`,
         display: `standalone`,
         icons: [
           {
