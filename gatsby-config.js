@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-     Shifting Paradigms in web Experiences
+     "Shifting Paradigms in web Experiences"
     siteTitleAlt: `Pravesh Vyas`,
   },
   plugins: [
