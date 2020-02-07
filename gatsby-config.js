@@ -28,7 +28,7 @@ module.exports = {
         short_name: `Cara`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#141821`,
         theme_color: `#f6ad55`,
         display: `standalone`,
         icons: [
