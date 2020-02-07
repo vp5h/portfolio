@@ -2,17 +2,18 @@ require(`dotenv`).config({
   path: `.env`,
 })
 
-module.exports = ({ basePath = `/`, mdx = true }) => ({
+module.exports = {
   siteMetadata: {
-    siteTitle: `Pravesh Vyas`,
-    siteTitleAlt: `Paradigm shift in Web Experinces `,
-    siteHeadline: `Web DEv`,
+     
+     siteTitle: `Pravesh Vyas`,
+    
+    siteHeadline: `Shifting Paradigms in web Experiences`,
     siteUrl: `https://www.praveshvyas.ml`,
-    siteDescription: `Paradigm shift in Web Experinces`,
+    siteDescription: `Shifting Paradigms in web Experiences`,
     siteLanguage: `en`,
     siteImage: `/cropped-YBM-v5-small.png`,
     author: `Pravesh Vyas`,
-    basePath,
+    siteTitleAlt: `Pravesh Vyas`,
   },
   plugins: [
     {
@@ -30,7 +31,7 @@ module.exports = ({ basePath = `/`, mdx = true }) => ({
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Pravesh Vyas, Really?`,
-        short_name: `PRV`,
+        short_name: `Cara`,
         description: `Shifting Paradigms in web Experiences`,
         start_url: `/`,
         background_color: `#141821`,
