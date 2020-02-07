@@ -2,7 +2,7 @@ require(`dotenv`).config({
   path: `.env`,
 })
 
-module.exports = {
+module.exports = ({ basePath = `/`, mdx = true }) => ({
   siteMetadata: {
     siteTitle: `Pravesh Vyas`,
     siteTitleAlt: `Paradigm shift in Web Experinces `,
