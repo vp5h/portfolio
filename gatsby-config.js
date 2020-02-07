@@ -13,7 +13,7 @@ module.exports = {
     siteImage: `/cropped-YBM-v5-small.png`,
     author: `Pravesh Vyas`,
     basePath,
-  },,
+  },
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
