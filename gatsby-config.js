@@ -23,7 +23,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Pravesh Vyas, Really?`,
-        short_name: `Cara`,
+        short_name: `PRV`,
         description: `Shifting Paradigms in web Experiences`,
         start_url: `/`,
         background_color: `#141821`,
