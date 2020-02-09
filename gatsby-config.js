@@ -8,7 +8,7 @@ module.exports = {
      siteTitle: `Pravesh Vyas`,
     
     siteHeadline: `Shifting Paradigms in web Experiences`,
-    siteUrl: `https://www.praveshvyas.ml`,
+    siteUrl: `https://www.praveshvyas.tech`,
     siteDescription: `Shifting Paradigms in web Experiences`,
     siteLanguage: `en`,
     siteImage: `/cropped-YBM-v5-small.png`,
