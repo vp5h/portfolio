@@ -9,7 +9,7 @@ module.exports = {
     
     siteHeadline: `Shifting Paradigms in web Experiences`,
     siteUrl: `https://www.praveshvyas.tech`,
-    siteDescription: `Shifting Paradigms in web Experiences`,
+    siteDescription: `Shifting Paradigms in web Experiences | Co-Founder/CTO at YourbrandMate | LAMP,MERN and JAM stacks.`,
     siteLanguage: `en`,
     siteImage: `/cropped-YBM-v5-small.png`,
     author: `Pravesh Vyas`,
